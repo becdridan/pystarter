@@ -1,0 +1,5 @@
+default_context:
+    repo_name: "default"
+    project_name: "project-name"
+    package_name: "mypackage"
+    description: "default example project"
