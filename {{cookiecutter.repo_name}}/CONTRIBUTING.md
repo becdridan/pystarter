@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - make
-- node (required for pyright). To install see [Install Node](https://confluence.teamxero.com/display/DATATEAM/Install+Node).
+- node (required for pyright).
 - python >= 3.11
 
 ## Getting started

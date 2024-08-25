@@ -37,7 +37,7 @@ pipx install cruft
 ## Usage
 
 ```
-cruft create 
+cruft create git@github.com:becdridan/pystarter.git
 # replace repo-name below with the name you specified during template creation
 cd repo-name
 git init && git commit -m 'root commit' --allow-empty
